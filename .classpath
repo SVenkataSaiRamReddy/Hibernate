@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v10.1 (5)">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/mysql-connector-j-8.2.0/mysql-connector-j-8.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate-commons-annotations-6.0.6.Final.jar"/>
+	<classpathentry kind="lib" path="D:/hibernate-core-6.1.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/jakarta.persistence-api-3.1.0 (1).jar"/>
+	<classpathentry kind="lib" path="D:/jar_files.zip"/>
+	<classpathentry kind="lib" path="D:/javax.xml.bind.jar.zip"/>
+	<classpathentry kind="lib" path="D:/jta-1_1.jar.zip"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
